@@ -39,4 +39,8 @@ h3 {
 	margin: 0 -15px;
 }
 
+.panel-body img {
+  float: left;
+  margin-right: 20px;
+}
 
