@@ -52,6 +52,9 @@ footer {
 .nav {
   margin-top: 25px;
 }
+#body::after {
+  margin: 60px;
+}
 
 .panel-body {
   background-color: #fff;
