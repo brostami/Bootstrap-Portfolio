@@ -29,6 +29,10 @@ footer {
   border-top: 8px solid #4aaaa5;
 }
 
+.navbar-fixed-bottom {
+  border-top: 8px solid #4aaaa5;
+}
+
 .navbar-header a {
   width: 250px;
   height: 90px;
@@ -46,12 +50,12 @@ footer {
 }
 
 .nav {
-	margin-top: 25px;
+  margin-top: 25px;
 }
 
 .panel-body {
-	background-color: #fff;
-	/*margin: 0 -15px;*/
+  background-color: #fff;
+  /*margin: 0 -15px;*/
 }
 
 .panel-body img {
@@ -59,3 +63,15 @@ footer {
   margin-right: 20px;
 }
 
+.btn-primary {
+  border: none;
+  background-color: #4aaaa5;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  padding: 10px;
+}
+
+.portfolio-row {
+  margin-bottom: 50px;
+}
